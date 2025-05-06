@@ -1,7 +1,7 @@
 # yt-dlp_tui
 
 **Notes**  
-only supports Termux 
+only supports F-droid Termux 
 
 **Installation**
 1. `pkg install yt-dlp gum ffmpeg curl`
