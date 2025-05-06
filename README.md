@@ -1,2 +1,9 @@
 # yt-dlp_tui
-A tui program written for Linux and Android ( Termux ) based on yt-dlp to download youtube videos with automatic merging capabilities using ffmpeg
+
+**Notes**  
+only supports Termux 
+
+**Installation**
+1. `pkg install yt-dlp gum ffmpeg curl`
+2.  `curl https://raw.githubusercontent.com/dipanshu247/yt-dlp_tui/refs/heads/main/install.sh | bash`
+3.  now you can use ytd command to download vidoes after restarting termux
